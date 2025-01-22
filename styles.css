@@ -1,0 +1,34 @@
+#hero,#head{
+    background-color: #c8eaf7
+}
+.photo{
+    border: #F2EFE7;
+    border-radius: 50%;
+}
+.photo1{   
+    height: 50vh;
+    width: 50vh;
+
+    border: #F2EFE7;
+    border-radius: 50%;
+}
+#about,#foooter,#hobby{
+    background-color: #f6f3e8;
+}
+
+.Studies{
+    text-align: center;
+}
+.foot{
+    background-color: #b8a966;
+}
+
+
+.foot>.container{
+    margin: 1cm;
+    align-items: center;
+
+}
+ul{
+    
+}
